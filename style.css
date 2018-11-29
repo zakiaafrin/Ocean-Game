@@ -1,0 +1,28 @@
+body {
+	user-select: none;
+}
+#ocean {
+    background-image: url("ocean.jpg");
+    background-size: 98vw 97vh;
+	width: 100%;
+	height: 690px;
+}
+#fish {
+	position:relative;
+	top: -137px;
+	left: 650px;
+}
+#fish img {
+	width: 280px;
+}
+.score {
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	border-radius: 20px;
+	position: relative;
+	top: -900px;
+	left: 58px;
+	margin-right: 1320px;
+	background-color: #ffef1b;
+}
